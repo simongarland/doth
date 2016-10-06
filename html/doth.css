@@ -1,0 +1,20 @@
+html, body { font-family: Corbel,"Lucida Sans Unicode", "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif; background: #e6ecff; margin: 1em; }
+h1 { font-size: 133%; }
+h2 { font-size: 120%; }
+h3 { font-size: 100%; }
+
+body, p, table, ul, ol, dl { font-size: 12px; }
+p { text-align: justify; }
+td, th { padding: 0.1em 1.5em 0.1em 0.5em; }
+table { border-collapse: collapse; }
+p img { float: left; margin: 0 1em 1em 0; }
+pre { overflow: auto; }
+
+html, body { background: white; }
+td { border-right: 1px solid #dcdcdc; }
+
+a:hover { background-color: #809fff; color: #80FFC3; }
+a { text-decoration: none; }
+.odd { background-color: #ececec; }
+.even { background-color: white; }
+.highlight { background-color: #bfcfff; }
